@@ -1,0 +1,1 @@
+This is a simple Excel Addin to maintain an individuals medical records. Personal Medical Records for an individual should provide medical history for Doctor Visits, Immunizations/Medications, Allergies, etc.
